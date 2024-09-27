@@ -37,7 +37,7 @@ Here is a summary of the key concepts from the presentation on "Agile Methods":
 
 The presentation frames Agile as a major leap forward in software development, allowing teams to deliver better results with less risk and faster turnarounds【5†source】.
 
-Module 2
+# Module 2
 Here’s a detailed explanation and notes based on both presentations for your exam:
 
 ### **1. Basics of Agile Software Development**
@@ -102,7 +102,7 @@ Here’s a detailed explanation and notes based on both presentations for your e
 
 Good luck with your exam!
 
-Module 3
+# Module 3
 Let’s go over the concepts from the latest presentation on **Agile Principles and the Agile Manifesto** to help you prepare for your exam:
 
 ### **1. Agile Core Values**:
@@ -186,7 +186,7 @@ Agile believes that **people are more important than processes**. Some important
 
 For your exam, focus on understanding how Agile differs from traditional models like Waterfall and how the principles of Agile guide day-to-day project management practices. Good luck!
 
-Module 4
+# Module 4
 This presentation focuses on *Agile Methodologies* with an emphasis on three key approaches: **SCRUM**, **Extreme Programming (XP)**, and **Test-Driven Development (TDD)**. Here’s a structured summary of these topics to help you prepare for your exam:
 
 ### 1. **Agile Methodologies Overview**
